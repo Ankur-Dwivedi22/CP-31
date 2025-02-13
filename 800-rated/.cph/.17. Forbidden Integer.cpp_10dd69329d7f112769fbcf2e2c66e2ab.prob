@@ -1,0 +1,1 @@
+{"name":"Local: 17","url":"d:\\CP-31\\800-rated\\17. Forbidden Integer.cpp","tests":[{"id":1739468622851,"input":"5\n10 3 2\n5 2 1\n4 2 1\n7 7 3\n6 1 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP-31\\800-rated\\17. Forbidden Integer.cpp","group":"local","local":true}
