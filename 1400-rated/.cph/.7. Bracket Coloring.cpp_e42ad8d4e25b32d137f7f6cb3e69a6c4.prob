@@ -1,0 +1,1 @@
+{"name":"Local: 7","url":"d:\\CP-31\\1400-rated\\7. Bracket Coloring.cpp","tests":[{"id":1744025621251,"input":"4\n8\n((())))(\n4\n(())\n4\n))((\n3\n(()\n","output":""},{"id":1744025652381,"input":"1\n8\n()())(()","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP-31\\1400-rated\\7. Bracket Coloring.cpp","group":"local","local":true}
