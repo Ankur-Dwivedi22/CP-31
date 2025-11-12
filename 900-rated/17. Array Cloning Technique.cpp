@@ -20,9 +20,9 @@ int main()
             ++q[x];
         }
         int am = 0;
-        for (auto &[x, y] : q)
+        for (auto it : q)
         {
-            am = max(am, y);
+            am = max(am, it.second);
         }
         int ans = 0;
         while (am < n)
