@@ -91,37 +91,38 @@ bool SieveOfEratosthenes(int n)
 
 void solve()
 {
-    int x, n;
-    cin >> x >> n;
-    int dx;
-    int r = n % 4;
-    if (r == 0)
+    string s;
+    cin >> s;
+    int ab = 0, ba = 0;
+    for (int i = 0; i < s.size() - 1; i++)
     {
-        dx = 0;
+        if (s[i] == 'a' && s[i + 1] == 'b')
+            ab++;
+        else if (s[i] == 'b' && s[i + 1] == 'a')
+            ba++;
     }
-    else if (r == 1)
+    if (ab > ba)
     {
-        dx = n;
+        for (int i = 0; i < s.size(); i++)
+        {
+            if (s[i] == 'a')
+            {
+                s[i] = 'b';
+                break;
+            }
+        }
     }
-    else if (r == 2)
-    {
-        dx = -1;
+    else if(ab < ba){
+        for (int i = 0; i < s.size(); i++)
+        {
+            if (s[i] == 'b')
+            {
+                s[i] = 'a';
+                break;
+            }
+        }
     }
-    else
-    {
-        dx = -n - 1;
-    }
-
-    if (x % 2 == 0)
-    {
-        x -= dx;
-    }
-    else
-    {
-        x += dx;
-    }
-
-    cout(x);
+    cout(s);
 }
 
 int32_t main()
