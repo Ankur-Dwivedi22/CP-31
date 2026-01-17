@@ -91,18 +91,9 @@ bool SieveOfEratosthenes(int n)
 
 void solve()
 {
-    int a, b;
-    cin >> a >> b;
-    int d = abs(a - b);
-    if (d == 0)
-    {
-        cout << 0 << " " << 0 << "\n";
-    }
-    else
-    {
-        int r = ((a + d - 1) / d * d) - a;
-        cout << d << " " << min(r, d - r) << "\n";
-    }
+    int n, m, i, j;
+    cin >> n >> m >> i >> j;
+    cout << 1 << " " << 1 << " " << n << " " << m << "\n";
 }
 
 int32_t main()
