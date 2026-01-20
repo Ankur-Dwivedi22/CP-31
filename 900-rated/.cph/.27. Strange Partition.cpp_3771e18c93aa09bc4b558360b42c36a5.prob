@@ -1,0 +1,1 @@
+{"name":"Local: 27","url":"d:\\CP-31\\900-rated\\27. Strange Partition.cpp","tests":[{"id":1768926753980,"input":"2\n3 3\n3 6 9\n3 3\n6 4 11\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP-31\\900-rated\\27. Strange Partition.cpp","group":"local","local":true}
