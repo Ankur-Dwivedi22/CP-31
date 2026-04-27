@@ -1,1 +1,0 @@
-{"name":"Local: 30","url":"d:\\CP-31\\900-rated\\30. 01 Game.cpp","tests":[{"id":1777312559509,"input":"3\n01\n1111\n0011\n","output":"DA\nNET\nNET\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP-31\\900-rated\\30. 01 Game.cpp","group":"local","local":true}
