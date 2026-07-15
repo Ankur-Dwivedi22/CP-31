@@ -1,0 +1,1 @@
+{"name":"Local: 23","url":"d:\\CP-31\\1200-rated\\23. Prinzessin der Verurteilung.cpp","tests":[{"id":1784115484929,"input":"3\n28\nqaabzwsxedcrfvtgbyhnujmiklop\n13\ncleanairactbd\n10\naannttoonn\n","output":"ac\nf\nb\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP-31\\1200-rated\\23. Prinzessin der Verurteilung.cpp","group":"local","local":true}
