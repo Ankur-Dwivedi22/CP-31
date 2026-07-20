@@ -1,0 +1,1 @@
+{"name":"Local: 25","url":"d:\\CP-31\\1200-rated\\25. Same Differences.cpp","tests":[{"id":1784550461906,"input":"4\n6\n3 5 1 4 6 6\n3\n1 2 3\n4\n1 3 3 4\n6\n1 6 3 4 5 6\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP-31\\1200-rated\\25. Same Differences.cpp","group":"local","local":true}
