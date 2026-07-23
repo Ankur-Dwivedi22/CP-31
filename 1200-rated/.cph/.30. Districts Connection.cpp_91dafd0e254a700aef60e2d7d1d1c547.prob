@@ -1,0 +1,1 @@
+{"name":"Local: 30","url":"d:\\CP-31\\1200-rated\\30. Districts Connection.cpp","tests":[{"id":1784822573636,"input":"4\n5\n1 2 2 1 3\n3\n1 1 1\n4\n1 1000 101 1000\n4\n1 2 3 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP-31\\1200-rated\\30. Districts Connection.cpp","group":"local","local":true}
